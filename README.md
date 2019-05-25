@@ -1,2 +1,2 @@
 # digitrecognizer
-Digit recognition on the MNIST dataset
+Digit recognition - Kaggle
